@@ -1,3 +1,4 @@
+//Create Multiple Choice Qs using for loop
 public class NestedLoopPractice {
     public static void main(String[] args) {
         //char[]array={a,b,c,d,e,f};
